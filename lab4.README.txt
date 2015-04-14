@@ -1,1 +1,7 @@
 name, date, description
+John Dobson
+4/14/2015
+
+A checker-board texture, created in the javascript file, was added to the
+object I created in lab3. The lighting I included in Lab 3 is still in
+use, as well as the motion controls.
